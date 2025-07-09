@@ -157,5 +157,4 @@ This project is licensed under the MIT License. See [`LICENSE`](LICENSE) for det
 
 ## 🔗 Useful Links
 - GitHub: [https://github.com/AneeshVish/ultrafastnet.git](https://github.com/AneeshVish/ultrafastnet.git)
-- Issues: [https://github.com/AneeshVish/ultrafastnet.git/issues](https://github.com/AneeshVish/ultrafastnet.git/issues)
-- Changelog: [https://github.com/AneeshVish/ultrafastnet.git/blob/main/CHANGELOG.md](https://github.com/AneeshVish/ultrafastnet.git/blob/main/CHANGELOG.md)
+
